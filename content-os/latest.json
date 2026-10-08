@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Ajustes con pantalla propia (⌘,), ideas de pago con borde dorado y $, tareas hechas sin la palabra hecha, y el botón ⋯ ya no tapa el título",
-  "pub_date": "2026-10-08T23:17:55Z",
+  "version": "0.1.3",
+  "notes": "El botón de cerrar del modo lectura pasa al extremo derecho de la barra, junto a Esc",
+  "pub_date": "2026-10-08T23:52:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFFqM3ppUFBkSmZxYmhUbjN2eVo3dGVhZlBoQmZKNlBJSGozQzVOSS9BRnRtS2xQS3hpcUlnUCthRGVUbmdkc0I0QjloRTRGRjFPSE41NjlLUVUvZndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAxNDc1CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKSDZ6NElwb2dSUS85WFc3c0ErdFJkdWRuOXNnUVJlR1VNbjdvQ2dNdkNTelJyNlczd3E3UlhibWd2T3g2aTdQU24wNmY1cVFlTXppT1JBQjJzOGFKRHc9PQo=",
-      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.2/Content-OS_0.1.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFpsc0ViNFdwLzFiTkRhYWJCeHdsZCtDRGpzMXlUYWwwZ253UGd5R0kvMnJTRUlzZ0ZsbkZUWFQyTzgvUDVWY0FWTVdEbit0QU9rM1FDWG9FYitUK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAzNTc2CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKbWd0SlFlNDNhRGgvVG50K0lZZDZTUjFrbmdYSnZlcjJQSGhGeFRiZEVheEt3N2JKdXF2SDh2VnBabmJaUkpKbUJZNXBGWDZ6Vm9tK3pndFVzWFFZQkE9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.3/Content-OS_0.1.3_aarch64.app.tar.gz"
     }
   }
 }
