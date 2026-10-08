@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Versión de prueba del actualizador",
+  "pub_date": "2026-10-08T14:52:22Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUGFNYmYxbC9la1VNcXJkRHhXaWdIcnZyMEt0ZVZqOGFWcEFxWHVtdzBlbkF5RURMM2E4V2krUng2ZklLSU8rQUN0MGI4QWZDb1I0Wk4vMHVnZXA2UEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDcxMTQyCWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKWlVjYk5kdDNraE1jWHFJMWZCNVIyUVpwR2dsczFuUmNhN05mbHZSUWFRd29JUE1TeXd1eU0xazRiajB1a3c2Uzh2aEhsd1JFbFdQRHFpbWlSdkZXQWc9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.1/Content-OS_0.1.1_aarch64.app.tar.gz"
+    }
+  }
+}
