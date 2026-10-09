@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "El botón de cerrar del modo lectura pasa al extremo derecho de la barra, junto a Esc",
-  "pub_date": "2026-10-08T23:52:56Z",
+  "version": "0.1.4",
+  "notes": "Corrige que los posts publicados por la noche (después de las 8 PM) tardaran hasta medianoche en aparecer",
+  "pub_date": "2026-10-09T03:51:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFpsc0ViNFdwLzFiTkRhYWJCeHdsZCtDRGpzMXlUYWwwZ253UGd5R0kvMnJTRUlzZ0ZsbkZUWFQyTzgvUDVWY0FWTVdEbit0QU9rM1FDWG9FYitUK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAzNTc2CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKbWd0SlFlNDNhRGgvVG50K0lZZDZTUjFrbmdYSnZlcjJQSGhGeFRiZEVheEt3N2JKdXF2SDh2VnBabmJaUkpKbUJZNXBGWDZ6Vm9tK3pndFVzWFFZQkE9PQo=",
-      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.3/Content-OS_0.1.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFRRRGlsTk1MSzZNK3oxaUZqTzQwcWVnWW11WURxMEwxTWZOekpUbmd5NFdOellaVHdzV1RFYTRVYjhGZEpYcTZjRm84Q3R1YnBQdXRacHNTUWRMZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTE3ODYxCWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQKZGV3VzBKYWlIUVc3SUxGVG5rdkZRV3dEK0tuK05TK05DUmJGTTJ4SHQvTUFqMzdqTnY0VzVzbHNvdmREYVZFU1RKeE84bFVpVnhkamd2STlDb2hhQlE9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.4/Content-OS_0.1.4_aarch64.app.tar.gz"
     }
   }
 }
