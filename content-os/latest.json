@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Corrige que los posts publicados por la noche (después de las 8 PM) tardaran hasta medianoche en aparecer",
-  "pub_date": "2026-10-09T03:51:01Z",
+  "version": "0.1.5",
+  "notes": "Seguidores con hora de actualización, ▶ en las tareas (En progreso + timer en un clic) y ajuste del timer de tareas",
+  "pub_date": "2026-10-09T21:33:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFRRRGlsTk1MSzZNK3oxaUZqTzQwcWVnWW11WURxMEwxTWZOekpUbmd5NFdOellaVHdzV1RFYTRVYjhGZEpYcTZjRm84Q3R1YnBQdXRacHNTUWRMZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTE3ODYxCWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQKZGV3VzBKYWlIUVc3SUxGVG5rdkZRV3dEK0tuK05TK05DUmJGTTJ4SHQvTUFqMzdqTnY0VzVzbHNvdmREYVZFU1RKeE84bFVpVnhkamd2STlDb2hhQlE9PQo=",
-      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.4/Content-OS_0.1.4_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUGVJbVBIM3c4REIwUkdVOHlPNE5wMWpYcUg4UUhDR3VKdkQyVEhYWjYrVVl2QnV2Q0o3djhJWFYvOHlaU1pCYUVvMXZnR0E1VHA0UXViUTEwWVloZnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgxNjE5CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjUKVStGOUNTdUZnanJ0MjZsYjZHb2xsV1JDTmpoS1Fya2ZOU1lnd3puMFZJV0pLRDBmVU9vcGJBNHg4c29OV3dDbWdwRmp1M1pIc3RrMHlxeC9iaWlhRGc9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.5/Content-OS_0.1.5_aarch64.app.tar.gz"
     }
   }
 }
