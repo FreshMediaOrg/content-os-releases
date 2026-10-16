@@ -1,0 +1,11 @@
+{
+  "version": "0.1.6",
+  "notes": "Inventario, agentes de IA, timer olvidado",
+  "pub_date": "2026-10-16T01:41:55Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFo1d01yMzU3YUE0Z1Y3N3FuNUEwMk8zcFE2SkZqR0E4c25VMGF2MWxmbjVtTUtLeGR3KzdoWWpwZkZRZlhMN2tUUTF4V3habDdEU3laYW5PNnlTVXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE0OTE1CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjYKamlIcnB4TVdLTm5OSFBMV0pwNDRuZStXY3FrRlUwZ2gwajlMcTFEVVFudStXNTNGeXM0ZC93czNJOFdGc3drRHZ2MnFYdXRMUnVUZ2JLQUZxYjc5REE9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.6/Content-OS_0.1.6_aarch64.app.tar.gz"
+    }
+  }
+}
