@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Los agentes de IA entienden mejor el tipo de producto (prestado, patrocinado)",
-  "pub_date": "2026-10-16T02:53:52Z",
+  "version": "0.1.8",
+  "notes": "Content OS MCP: nueva herramienta crear_contenido",
+  "pub_date": "2026-10-19T21:57:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFdrdHhWOWlwREZmakxhQ09OMitUckpWSFUyK005dVplbi8zSUQrWVVvbFpSOHhlcHE0WkVLa1pyeis4Nzlid1JidkpEL0lkMWZBNmRFQkJQQ3RNbmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE5MjMyCWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjcKQ3RrN012Q3lydXJLSUp1MGQxaFU1THpFMXVHcnFlYjFVSlRPZnhpTmZUdXRMSXJEbnZqRjVVaU9oVXJRZ0RyTm1XRThVZmVCMTNzZHRTY1JEVkZpQmc9PQo=",
-      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.7/Content-OS_0.1.7_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGZmOS95V2RxUFRwZWp3QnVtZloxektzQjQ2TGVsTFkydDk5bWdWbUdqRHBZUHVDNUY3a2ViQ2dqRlI4djBkSXBWUnpVVElNSHh3WjRxOXlVMGtubHdUaEx3WUpNR2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQ3MDQ4CWZpbGU6Q29udGVudCBPUy5hcHAudGFyLmd6CXZlcnNpb246MC4xLjgKa3ZYdXpORkVUOWdnUGNrYzVxbkR5Y0cwMWlwK2FaTHBhMkhLQ1FxdXk4SmxmTG15OFJZU0pVNU1NcG9FUzRYcU5XR0xpUEFpajJ1N3pSZU1IQ3QrREE9PQo=",
+      "url": "https://github.com/FreshMediaOrg/content-os-releases/releases/download/v0.1.8/Content-OS_0.1.8_aarch64.app.tar.gz"
     }
   }
 }
